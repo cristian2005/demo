@@ -1,12 +1,8 @@
-   {
-          title: `4300x3500 - "Goku's New Transformation"`,
-          message: `Some quick example text to build on the card title and make up the bulk of the card's content.`,
-          imgs: ["https://images3.alphacoders.com/131/1314151.jpg"],
-          hideMessage: false,
-        },
-        {
-          title: "5760x3240 -  Goku",
-          message: `Some quick example text to build on the card title and make up the bulk of the card's content.`,
-          imgs: ["https://images5.alphacoders.com/904/904443.png"],
-          hideMessage: false,
-        }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
