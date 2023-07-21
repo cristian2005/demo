@@ -1,5 +1,4 @@
-[
-        {
+   {
           title: `4300x3500 - "Goku's New Transformation"`,
           message: `Some quick example text to build on the card title and make up the bulk of the card's content.`,
           imgs: ["https://images3.alphacoders.com/131/1314151.jpg"],
@@ -10,5 +9,4 @@
           message: `Some quick example text to build on the card title and make up the bulk of the card's content.`,
           imgs: ["https://images5.alphacoders.com/904/904443.png"],
           hideMessage: false,
-        },
-      ]
+        }
